@@ -1,4 +1,5 @@
 module.exports = {
+  //American : British 
   "acclimate": "acclimatise",
   "acetaminophen": "paracetamol",
   "baby carriage": "pram",

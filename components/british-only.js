@@ -1,4 +1,5 @@
 module.exports = {
+  //British : American 
   "abseil": "rappel",
   "accountancy": "accounting",
   "advert": "advertisement",
